@@ -1,0 +1,23 @@
+{
+  "name": "radiant-sunshine-events",
+  "version": "1.0.3",
+  "description": "A library for managing events with radiant sunshine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haideeschug/radiant-sunshine-events"
+  },
+  "keywords": [
+    "events",
+    "radiant",
+    "sunshine"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mitt": "^2.1.0",
+    "eventemitter3": "^4.0.7"
+  }
+}
